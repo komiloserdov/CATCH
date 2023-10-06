@@ -1,3 +1,12 @@
+# NOTES FOR THIS FORK
+Fixing small type-related bug due to update in the numpy package (see commit: caef6ddcc759993bf453580b2bab30942252874a). 
+
+To install this fork please use:
+
+`pip install git+https://github.com/komiloserdov/CATCH`
+
+None of the other references or links in this readme were changed.
+
 # CATCH: Cellular Analysis with Topology and Condensation Homology
 Learning cellular hierarchy from scRNAseq data
 
